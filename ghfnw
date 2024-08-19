@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vd0vb52.png" group-title="JURIS : LOCAL TV", A2Z
-http://admin.ganbaruby23.xyz/stream/new/a2z/master.m3u8?u=phcorner3&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+http://vstream.vip/live/wD9kEvrG9Y/MAWga6x7M4/6.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vd0vb52.png" group-title="JURIS : LOCAL TV", A2Z 2
 http://defaultgen.com:3050/live/elmapps@hotmail.com/eBq1GL48XR/558786.ts
 #EXTINF: -1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/XzVYXaV.png" group-title="JURIS : LOCAL TV", ANC
@@ -46,7 +46,7 @@ http://vstream.vip/live/bdSzNxJrMp/DgQMpeQyV5/127.ts
 #EXTINF: -1 tvg-id="THRILL.ph" tvg-logo="https://i.imgur.com/OnMwA42.png" group-title="JURIS : LOCAL TV", Thrill 2
 http://a.bittensor.nexus/Movie009/Malta009/257885
 #EXTINF: -1 tvg-id="PBO.ph" tvg-logo="https://i.imgur.com/oOMAyoX.png" group-title="JURIS : LOCAL TV", PBO
-http://vstream.vip/live/Xqc9D9BjRE/QrhZyDMxvF/20.ts
+http://vstream.vip/live/Xqc9D9BjRE/QrhZyDMxv/20.ts
 #EXTINF: -1 tvg-id="PBO.ph" tvg-logo="https://i.imgur.com/oOMAyoX.png" group-title="JURIS : LOCAL TV", PBO 2
 http://user.scalecdn.co:8080/832396169/832396169/567735
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TvN Movies Tagalog" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="JURIS : LOCAL TV",TvN Movies Tagalog
